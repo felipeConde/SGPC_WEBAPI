@@ -1,0 +1,3 @@
+@Imports SGPC_WEBAPI.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
